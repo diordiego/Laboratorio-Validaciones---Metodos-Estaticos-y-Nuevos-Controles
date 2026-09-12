@@ -1,0 +1,14 @@
+C:\Users\drsgo\source\repos\Juego de Crabs Elaborado por Diego Sanjur\Juego de Crabs Elaborado por Diego Sanjur\bin\Debug\net10.0\Juego de Crabs Elaborado por Diego Sanjur.exe
+C:\Users\drsgo\source\repos\Juego de Crabs Elaborado por Diego Sanjur\Juego de Crabs Elaborado por Diego Sanjur\bin\Debug\net10.0\Juego de Crabs Elaborado por Diego Sanjur.deps.json
+C:\Users\drsgo\source\repos\Juego de Crabs Elaborado por Diego Sanjur\Juego de Crabs Elaborado por Diego Sanjur\bin\Debug\net10.0\Juego de Crabs Elaborado por Diego Sanjur.runtimeconfig.json
+C:\Users\drsgo\source\repos\Juego de Crabs Elaborado por Diego Sanjur\Juego de Crabs Elaborado por Diego Sanjur\bin\Debug\net10.0\Juego de Crabs Elaborado por Diego Sanjur.dll
+C:\Users\drsgo\source\repos\Juego de Crabs Elaborado por Diego Sanjur\Juego de Crabs Elaborado por Diego Sanjur\bin\Debug\net10.0\Juego de Crabs Elaborado por Diego Sanjur.pdb
+C:\Users\drsgo\source\repos\Juego de Crabs Elaborado por Diego Sanjur\Juego de Crabs Elaborado por Diego Sanjur\obj\Debug\net10.0\Juego de Crabs Elaborado por Diego Sanjur.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\drsgo\source\repos\Juego de Crabs Elaborado por Diego Sanjur\Juego de Crabs Elaborado por Diego Sanjur\obj\Debug\net10.0\Juego de Crabs Elaborado por Diego Sanjur.AssemblyInfoInputs.cache
+C:\Users\drsgo\source\repos\Juego de Crabs Elaborado por Diego Sanjur\Juego de Crabs Elaborado por Diego Sanjur\obj\Debug\net10.0\Juego de Crabs Elaborado por Diego Sanjur.AssemblyInfo.cs
+C:\Users\drsgo\source\repos\Juego de Crabs Elaborado por Diego Sanjur\Juego de Crabs Elaborado por Diego Sanjur\obj\Debug\net10.0\Juego de Crabs Elaborado por Diego Sanjur.csproj.CoreCompileInputs.cache
+C:\Users\drsgo\source\repos\Juego de Crabs Elaborado por Diego Sanjur\Juego de Crabs Elaborado por Diego Sanjur\obj\Debug\net10.0\Juego de Crabs Elaborado por Diego Sanjur.dll
+C:\Users\drsgo\source\repos\Juego de Crabs Elaborado por Diego Sanjur\Juego de Crabs Elaborado por Diego Sanjur\obj\Debug\net10.0\refint\Juego de Crabs Elaborado por Diego Sanjur.dll
+C:\Users\drsgo\source\repos\Juego de Crabs Elaborado por Diego Sanjur\Juego de Crabs Elaborado por Diego Sanjur\obj\Debug\net10.0\Juego de Crabs Elaborado por Diego Sanjur.pdb
+C:\Users\drsgo\source\repos\Juego de Crabs Elaborado por Diego Sanjur\Juego de Crabs Elaborado por Diego Sanjur\obj\Debug\net10.0\Juego de Crabs Elaborado por Diego Sanjur.genruntimeconfig.cache
+C:\Users\drsgo\source\repos\Juego de Crabs Elaborado por Diego Sanjur\Juego de Crabs Elaborado por Diego Sanjur\obj\Debug\net10.0\ref\Juego de Crabs Elaborado por Diego Sanjur.dll

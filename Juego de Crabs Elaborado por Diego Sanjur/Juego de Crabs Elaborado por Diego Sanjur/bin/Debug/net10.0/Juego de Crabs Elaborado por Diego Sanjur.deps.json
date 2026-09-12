@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v10.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v10.0": {
+      "Juego de Crabs Elaborado por Diego Sanjur/1.0.0": {
+        "runtime": {
+          "Juego de Crabs Elaborado por Diego Sanjur.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Juego de Crabs Elaborado por Diego Sanjur/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

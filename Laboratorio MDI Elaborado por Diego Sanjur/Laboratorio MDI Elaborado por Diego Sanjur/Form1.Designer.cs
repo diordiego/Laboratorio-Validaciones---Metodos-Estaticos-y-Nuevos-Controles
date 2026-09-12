@@ -1,0 +1,80 @@
+﻿namespace Laboratorio_MDI_Elaborado_por_Diego_Sanjur
+{
+    partial class Form1
+    {
+        /// <summary>
+        /// Required designer variable.
+        /// </summary>
+        private System.ComponentModel.IContainer components = null;
+
+        /// <summary>
+        /// Clean up any resources being used.
+        /// </summary>
+        /// <param name="disposing">true if managed resources should be disposed; otherwise, false.</param>
+        protected override void Dispose(bool disposing)
+        {
+            if (disposing && (components != null))
+            {
+                components.Dispose();
+            }
+            base.Dispose(disposing);
+        }
+
+        #region Windows Form Designer generated code
+
+        /// <summary>
+        /// Required method for Designer support - do not modify
+        /// the contents of this method with the code editor.
+        /// </summary>
+        private void InitializeComponent()
+        {
+            System.ComponentModel.ComponentResourceManager resources = new System.ComponentModel.ComponentResourceManager(typeof(Form1));
+            this.tsbActivarBoton = new System.Windows.Forms.ToolStripButton();
+            this.toolStrip1 = new System.Windows.Forms.ToolStrip();
+            this.toolStrip1.SuspendLayout();
+            this.SuspendLayout();
+            // 
+            // tsbActivarBoton
+            // 
+            this.tsbActivarBoton.DisplayStyle = System.Windows.Forms.ToolStripItemDisplayStyle.Image;
+            this.tsbActivarBoton.Image = ((System.Drawing.Image)(resources.GetObject("tsbActivarBoton.Image")));
+            this.tsbActivarBoton.ImageTransparentColor = System.Drawing.Color.Magenta;
+            this.tsbActivarBoton.Name = "tsbActivarBoton";
+            this.tsbActivarBoton.Size = new System.Drawing.Size(29, 24);
+            this.tsbActivarBoton.Text = "Activar";
+            this.tsbActivarBoton.Click += new System.EventHandler(this.tsbActivarBoton_Click);
+            // 
+            // toolStrip1
+            // 
+            this.toolStrip1.ImageScalingSize = new System.Drawing.Size(20, 20);
+            this.toolStrip1.Items.AddRange(new System.Windows.Forms.ToolStripItem[] {
+            this.tsbActivarBoton});
+            this.toolStrip1.Location = new System.Drawing.Point(0, 0);
+            this.toolStrip1.Name = "toolStrip1";
+            this.toolStrip1.Size = new System.Drawing.Size(1006, 27);
+            this.toolStrip1.TabIndex = 1;
+            this.toolStrip1.Text = "toolStrip1";
+            // 
+            // Form1
+            // 
+            this.AutoScaleDimensions = new System.Drawing.SizeF(8F, 16F);
+            this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
+            this.ClientSize = new System.Drawing.Size(1006, 721);
+            this.Controls.Add(this.toolStrip1);
+            this.IsMdiContainer = true;
+            this.Name = "Form1";
+            this.Text = "Ventana Padre";
+            this.toolStrip1.ResumeLayout(false);
+            this.toolStrip1.PerformLayout();
+            this.ResumeLayout(false);
+            this.PerformLayout();
+
+        }
+
+        #endregion
+
+        private System.Windows.Forms.ToolStripButton tsbActivarBoton;
+        private System.Windows.Forms.ToolStrip toolStrip1;
+    }
+}
+

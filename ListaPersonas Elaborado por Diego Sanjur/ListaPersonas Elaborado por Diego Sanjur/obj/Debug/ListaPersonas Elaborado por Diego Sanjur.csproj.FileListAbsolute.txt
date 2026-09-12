@@ -1,0 +1,10 @@
+C:\Users\drsgo\source\repos\ListaPersonas Elaborado por Diego Sanjur\ListaPersonas Elaborado por Diego Sanjur\bin\Debug\ListaPersonas Elaborado por Diego Sanjur.exe.config
+C:\Users\drsgo\source\repos\ListaPersonas Elaborado por Diego Sanjur\ListaPersonas Elaborado por Diego Sanjur\bin\Debug\ListaPersonas Elaborado por Diego Sanjur.exe
+C:\Users\drsgo\source\repos\ListaPersonas Elaborado por Diego Sanjur\ListaPersonas Elaborado por Diego Sanjur\bin\Debug\ListaPersonas Elaborado por Diego Sanjur.pdb
+C:\Users\drsgo\source\repos\ListaPersonas Elaborado por Diego Sanjur\ListaPersonas Elaborado por Diego Sanjur\obj\Debug\ListaPersonas Elaborado por Diego Sanjur.csproj.AssemblyReference.cache
+C:\Users\drsgo\source\repos\ListaPersonas Elaborado por Diego Sanjur\ListaPersonas Elaborado por Diego Sanjur\obj\Debug\ListaPersonas_Elaborado_por_Diego_Sanjur.Form1.resources
+C:\Users\drsgo\source\repos\ListaPersonas Elaborado por Diego Sanjur\ListaPersonas Elaborado por Diego Sanjur\obj\Debug\ListaPersonas_Elaborado_por_Diego_Sanjur.Properties.Resources.resources
+C:\Users\drsgo\source\repos\ListaPersonas Elaborado por Diego Sanjur\ListaPersonas Elaborado por Diego Sanjur\obj\Debug\ListaPersonas Elaborado por Diego Sanjur.csproj.GenerateResource.cache
+C:\Users\drsgo\source\repos\ListaPersonas Elaborado por Diego Sanjur\ListaPersonas Elaborado por Diego Sanjur\obj\Debug\ListaPersonas Elaborado por Diego Sanjur.csproj.CoreCompileInputs.cache
+C:\Users\drsgo\source\repos\ListaPersonas Elaborado por Diego Sanjur\ListaPersonas Elaborado por Diego Sanjur\obj\Debug\ListaPersonas Elaborado por Diego Sanjur.exe
+C:\Users\drsgo\source\repos\ListaPersonas Elaborado por Diego Sanjur\ListaPersonas Elaborado por Diego Sanjur\obj\Debug\ListaPersonas Elaborado por Diego Sanjur.pdb
